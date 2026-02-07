@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-410c-a318-76e2dc0e599b.gif" width="100%" />
 
-# KARTHIKEYA MUDILI
+# VENKATA DURGA NAGA SATYA SAI KARTHIKEYA MUDILI
 ### 📊 Aspiring Fintech Professional | CA Intermediate | Python Developer
 
 <br>
