@@ -40,12 +40,18 @@
 
 ---
 
-## 📈 ANALYTICS
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=radical&hide_border=true" alt="Languages" />
-</p>
+## 🌐 CONNECT & COLLABORATE
 
-### 📫 [**CONTACT / ACADEMIC INQUIRIES**](mailto:mvdnssk@gmail.com)
+<p align="center">
+  <a href="mailto:Mudilik20242210070@kkmedu.onmicrosoft.com">
+    <img src="https://img.shields.io/badge/Email-Sent-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 </div>
