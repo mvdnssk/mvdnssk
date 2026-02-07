@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=KARTHIKEYA%20MUDILI&fontSize=50&fontColor=64ffda&fontAlign=50" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-410c-a318-76e2dc0e599b.gif" width="100%" />
 
+# KARTHIKEYA MUDILI
 ### 📊 Aspiring Fintech Professional | CA Intermediate | Python Developer
 
 <br>
