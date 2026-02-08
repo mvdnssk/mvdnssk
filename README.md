@@ -45,13 +45,13 @@
 ## 🌐 CONNECT & COLLABORATE
 
 <p align="center">
-  <a href="mailto:Mudilik20242210070@kkmedu.onmicrosoft.com">
+  <a href="mailto:mvdnssk@gmail.com">
     <img src="https://img.shields.io/badge/Email-Sent-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/karthikeya-mudili/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com">
+  <a href="https://www.instagram.com/karthikeya.mudili/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
