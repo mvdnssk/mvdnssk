@@ -55,9 +55,7 @@ I am a **Chartered Accountancy student** (ICAI) with a developer's mindset. Whil
 <h3 align="left">🛠️ Technical Arsenal</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Generative_AI-Augmented_Dev-9D4EDD?style=for-the-badge&logo=openai&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/C_Programming-Foundational_Logic-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
@@ -65,8 +63,8 @@ I am a **Chartered Accountancy student** (ICAI) with a developer's mindset. Whil
 
 <h3 align="left">📊 Development Metrics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=dark&hide_border=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=dark&hide_border=true" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=radical&hide_border=true" height="170" alt="languages graph" />
 </p>
 
 <div align="center">
