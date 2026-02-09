@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  
   <a href="https://mvdnssk.github.io" target="_blank">
     <img src="https://img.shields.io/badge/OFFICIAL_PORTFOLIO-VISIT_NOW-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
   </a>
@@ -13,7 +12,6 @@
   <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=10281216" target="_blank">
     <img src="https://img.shields.io/badge/SSRN-RESEARCH_AUTHOR-1877F2?style=for-the-badge&logo=elsevier&logoColor=white" alt="SSRN" />
   </a>
-  
 </div>
 
 <br />
@@ -63,9 +61,8 @@ I am a **Chartered Accountancy student** (ICAI) with a developer's mindset. Whil
 
 <h3 align="left">📊 Development Metrics</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&hide_border=true)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=100&section=footer&animation=twinkling" width="100%" />
