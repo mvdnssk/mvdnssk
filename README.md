@@ -30,9 +30,11 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
   <a href="https://mvdnssk.github.io">
     <img src="https://img.shields.io/badge/CA_FOUNDATION-ICAI_VERIFIED_%E2%9C%94-00F5D4?style=for-the-badge&logo=googlescholar&logoColor=black" />
   </a>
+  <br>
   <a href="https://mvdnssk.github.io">
     <img src="https://img.shields.io/badge/PUBLISHED_AUTHOR-STRATEGIC_ANALYSIS-00D9FF?style=for-the-badge&logo=read-the-docs&logoColor=black" />
   </a>
+  <br>
   <a href="https://mvdnssk.github.io">
     <img src="https://img.shields.io/badge/STATE_BOARD_TOPPER-RANK_1_(95.8%25)-9D4EDD?style=for-the-badge&logo=starship&logoColor=white" />
   </a>
@@ -40,9 +42,11 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
   <a href="https://mvdnssk.github.io">
     <img src="https://img.shields.io/badge/PRATIBHA_AWARDEE-GOVT_EXCELLENCE-FFD700?style=for-the-badge&logo=autodesk&logoColor=black" />
   </a>
+  <br>
   <a href="https://mvdnssk.github.io">
     <img src="https://img.shields.io/badge/YALE_UNIVERSITY-FINANCIAL_MARKETS-3A0CA3?style=for-the-badge&logo=coursera&logoColor=white" />
   </a>
+  <br>
   <a href="https://mvdnssk.github.io">
     <img src="https://img.shields.io/badge/MICROSOFT_POWER_BI-ANALYST-FF006E?style=for-the-badge&logo=powerbi&logoColor=white" />
   </a>
@@ -52,4 +56,18 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
 
 <h3 align="left">🛠️ Technical Arsenal</h3>
 <div align="left">
-  <img src="
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-Augmented_Dev-9D4EDD?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_Programming-Foundational_Logic-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div>
+
+<br />
+
+<h3 align="left">📊 Development Metrics</h3>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=100&section=footer&animation=twinkling" width="100%" />
+</div>
