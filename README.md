@@ -36,15 +36,15 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/STATE_BOARD_TOPPER-RANK_1_(95.8%25)-EA80FC?style=for-the-badge&logo=starship&logoColor=white&labelColor=4A148C" />
+    <img src="https://img.shields.io/badge/STATE_BOARD_TOPPER_%F0%9F%87%AE%F0%9F%87%B3-TOP_1%25_IN_STATE-EA80FC?style=for-the-badge&logo=starship&logoColor=white&labelColor=4A148C" />
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/PRATIBHA_AWARDEE-GOVT_EXCELLENCE-FFD700?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=E65100" />
+    <img src="https://img.shields.io/badge/PRATIBHA_AWARDEE_%F0%9F%A5%87-GOVT_EXCELLENCE-FFD700?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=E65100" />
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/YALE_UNIVERSITY-FINANCIAL_MARKETS-536DFE?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1A237E" />
+    <img src="https://img.shields.io/badge/YALE_UNIVERSITY-FINANCIAL_MARKETS-00356B?style=for-the-badge&logo=yale&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
   <br>
   <img src="https://img.shields.io/badge/C_Programming-FOUNDATIONAL_LOGIC-FF1744?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
   <br>
-  <img src="https://img.shields.io/badge/Microsoft_Power_BI-DATA_VISUALIZATION-FFD600?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Microsoft_Power_BI-DATA_VISUALIZATION-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=000000" />
 </div>
 
 <br />
