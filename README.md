@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=280&section=header&text=KARTHIKEYA%20MUDILI&fontSize=42&fontAlignY=40&desc=INTEGRATING%20ACCOUNTING%20WITH%20FINTECH%20INNOVATION&descAlignY=65&descSize=16&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=250&section=header&text=KARTHIKEYA%20MUDILI&fontSize=42&fontAlignY=40&desc=INTEGRATING%20ACCOUNTING%20WITH%20FINTECH%20INNOVATION&descAlignY=65&descSize=16&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  
   <a href="https://mvdnssk.github.io" target="_blank">
     <img src="https://img.shields.io/badge/OFFICIAL_PORTFOLIO-VISIT_NOW-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
   </a>
@@ -13,7 +12,6 @@
   <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=10281216" target="_blank">
     <img src="https://img.shields.io/badge/SSRN-RESEARCH_AUTHOR-1877F2?style=for-the-badge&logo=elsevier&logoColor=white" alt="SSRN" />
   </a>
-  
 </div>
 
 <br />
@@ -54,28 +52,4 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
 
 <h3 align="left">🛠️ Technical Arsenal</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-Augmented_Dev-9D4EDD?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/C_Programming-Foundational_Logic-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div>
-
-<br />
-
-<h3 align="left">📟 System Status Protocol</h3>
-
-```python
-class VDNSS_Profile:
-    def __init__(self):
-        self.user = "VDNSS_Karthikeya"
-        self.role = "Fintech_Strategist"
-        self.status = "ONLINE 🟢"
-
-    def current_mission(self):
-        return {
-            "🔭 Focusing": "CA Intermediate (Group 2)",
-            "💻 Coding":   "Building Automated Loan Engines",
-            "🚀 Target":   "Global Top Universities (NTU/CityU)"
-        }
-
-# Executing Profile Load...
-# INTEGRITY VERIFIED [====================] 100%
+  <img src="
