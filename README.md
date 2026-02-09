@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=250&section=header&text=VDNSS%20Karthikeya%20Mudili&fontSize=40&fontAlignY=40&desc=Fintech%20Strategist%20%7C%20Audit%20Automation&descAlignY=65&descSize=16&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=280&section=header&text=KARTHIKEYA%20MUDILI&fontSize=42&fontAlignY=40&desc=INTEGRATING%20ACCOUNTING%20WITH%20FINTECH%20INNOVATION&descAlignY=65&descSize=16&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -20,10 +20,10 @@
 
 <h3 align="center">⚡ The Architect of Financial Logic</h3>
 <p align="center">
-  <em>"Leveraging <strong>Python</strong> and <strong>AI</strong> to modernize Financial Accounting."</em>
+  <em>"I don't just audit the books; I write the <strong>code</strong> that audits them."</em>
 </p>
 
-I am a **Chartered Accountancy student** (ICAI) with a developer's mindset. While my core expertise is in Audit and Finance, I utilize **Python and Generative AI** to build tools, automate calculations, and bridge the gap between numbers and technology.
+I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial compliance. While my peers focus on manual entry, I build **Python engines** to automate audit sampling, detect payroll anomalies, and calculate amortization schedules instantly.
 
 ---
 
@@ -61,14 +61,21 @@ I am a **Chartered Accountancy student** (ICAI) with a developer's mindset. Whil
 
 <br />
 
-<h3 align="left">📟 System Status</h3>
+<h3 align="left">📟 System Status Protocol</h3>
 
-```yaml
-User: VDNSS_Karthikeya
-Role: Fintech_Strategist
-Current_Objective: "Automating Audit Workflows"
-Status: 
-  - 🔭 Studying: CA Intermediate (Group 2)
-  - 💻 Coding: Python Financial Engines
-  - 📚 Reading: Corporate Law & Strategic Mgmt
-System_Integrity: VERIFIED 🟢
+```python
+class VDNSS_Profile:
+    def __init__(self):
+        self.user = "VDNSS_Karthikeya"
+        self.role = "Fintech_Strategist"
+        self.status = "ONLINE 🟢"
+
+    def current_mission(self):
+        return {
+            "🔭 Focusing": "CA Intermediate (Group 2)",
+            "💻 Coding":   "Building Automated Loan Engines",
+            "🚀 Target":   "Global Top Universities (NTU/CityU)"
+        }
+
+# Executing Profile Load...
+# INTEGRITY VERIFIED [====================] 100%
