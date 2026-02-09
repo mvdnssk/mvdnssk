@@ -46,19 +46,19 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
   <a href="https://mvdnssk.github.io">
     <img src="https://img.shields.io/badge/YALE_UNIVERSITY-FINANCIAL_MARKETS-536DFE?style=for-the-badge&logo=coursera&logoColor=white&labelColor=1A237E" />
   </a>
-  <br>
-  <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/MICROSOFT_POWER_BI-ANALYST-FF4081?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=880E4F" />
-  </a>
 </p>
 
 ---
 
 <h3 align="left">🛠️ Technical Arsenal</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-Augmented_Dev-9D4EDD?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/C_Programming-Foundational_Logic-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-ARCHITECT_LEVEL-00E676?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-FINANCIAL_AUTOMATION-2979FF?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <br>
+  <img src="https://img.shields.io/badge/C_Programming-FOUNDATIONAL_LOGIC-FF1744?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
+  <br>
+  <img src="https://img.shields.io/badge/Microsoft_Power_BI-DATA_VISUALIZATION-FFD600?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=000000" />
 </div>
 
 <br />
@@ -74,7 +74,7 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
   </a>
   <br>
   <a href="https://github.com/mvdnssk">
-    <img src="https://img.shields.io/badge/GITHUB-DEV_ECOSYSTEM-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/GITHUB-DEV_ECOSYSTEM-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
   </a>
   <br>
   <a href="https://www.instagram.com/karthikeya.mudili/">
