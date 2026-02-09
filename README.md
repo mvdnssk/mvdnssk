@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=250&section=header&text=KARTHIKEYA%20MUDILI&fontSize=42&fontAlignY=40&desc=INTEGRATING%20ACCOUNTING%20WITH%20FINTECH%20INNOVATION&descAlignY=65&descSize=16&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=250&section=header&text=VDNSS%20KARTHIKEYA%20MUDILI&fontSize=38&fontAlignY=40&desc=INTEGRATING%20ACCOUNTING%20WITH%20FINTECH%20INNOVATION&descAlignY=65&descSize=14&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -63,10 +63,16 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
 
 <br />
 
-<h3 align="left">📊 Development Metrics</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<h3 align="left">📫 Connect & Collaborate</h3>
+<p align="left">
+  <a href="mailto:mvdnssk@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://github.com/mvdnssk">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW_DEV_JOURNEY-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=100&section=footer&animation=twinkling" width="100%" />
