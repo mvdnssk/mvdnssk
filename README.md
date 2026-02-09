@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=280&section=header&text=VDNSS%20Karthikeya%20Mudili&fontSize=45&fontAlignY=40&desc=CA%20Intermediate%20%7C%20Fintech%20Strategist%20%7C%20Audit%20Automation&descAlignY=65&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=280&section=header&text=VDNSS%20Karthikeya%20Mudili&fontSize=45&fontAlignY=40&desc=CA%20Intermediate%20%7C%20Fintech%20Strategist%20%7C%20Python%20Automation&descAlignY=65&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -18,12 +18,12 @@
 
 <br />
 
-<h3 align="center">⚡ The Architect of Financial Logic</h3>
+<h3 align="center">⚡ The Intersection of Finance & Logic</h3>
 <p align="center">
-  <em>"Bridging the gap between <strong>Audit Standards</strong> and <strong>Algorithmic Intelligence</strong>."</em>
+  <em>"Leveraging <strong>Python</strong> and <strong>AI</strong> to modernize Financial Accounting."</em>
 </p>
 
-I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial compliance. While traditional accountants focus on manual entry, I build **Python engines** to automate audit sampling, detect payroll anomalies, and calculate amortization schedules instantly.
+I am a **Chartered Accountancy student** (ICAI) with a developer's mindset. While my core expertise is in Audit and Finance, I utilize **Python and Generative AI** to build tools, automate calculations, and bridge the gap between numbers and technology.
 
 ---
 
@@ -55,18 +55,19 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
 <h3 align="left">🛠️ Technical Arsenal</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Financial_Modelling-00D9FF?style=for-the-badge&logo=codio&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Audit_Automation-9D4EDD?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5_&_Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Generative_AI-Augmented_Dev-9D4EDD?style=for-the-badge&logo=openai&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/C_Programming-Foundational_Logic-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
 <br />
 
 <h3 align="left">📊 Development Metrics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a12" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a12" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=dark&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
