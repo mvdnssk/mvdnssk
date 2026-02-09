@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  
   <a href="https://mvdnssk.github.io" target="_blank">
     <img src="https://img.shields.io/badge/OFFICIAL_PORTFOLIO-VISIT_NOW-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
   </a>
@@ -12,11 +13,12 @@
   <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=10281216" target="_blank">
     <img src="https://img.shields.io/badge/SSRN-RESEARCH_AUTHOR-1877F2?style=for-the-badge&logo=elsevier&logoColor=white" alt="SSRN" />
   </a>
+  
 </div>
 
 <br />
 
-<h3 align="center">⚡ The Intersection of Finance & Logic</h3>
+<h3 align="center">⚡ The Architect of Financial Logic</h3>
 <p align="center">
   <em>"Leveraging <strong>Python</strong> and <strong>AI</strong> to modernize Financial Accounting."</em>
 </p>
@@ -59,11 +61,14 @@ I am a **Chartered Accountancy student** (ICAI) with a developer's mindset. Whil
 
 <br />
 
-<h3 align="left">📊 Development Metrics</h3>
+<h3 align="left">📟 System Status</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&hide_border=true)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=100&section=footer&animation=twinkling" width="100%" />
-</div>
+```yaml
+User: VDNSS_Karthikeya
+Role: Fintech_Strategist
+Current_Objective: "Automating Audit Workflows"
+Status: 
+  - 🔭 Studying: CA Intermediate (Group 2)
+  - 💻 Coding: Python Financial Engines
+  - 📚 Reading: Corporate Law & Strategic Mgmt
+System_Integrity: VERIFIED 🟢
