@@ -66,11 +66,19 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
 <h3 align="left">📫 Connect & Collaborate</h3>
 <p align="left">
   <a href="mailto:mvdnssk@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-SEND_PROPOSALS-FF4500?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/karthikeya-mudili/">
+    <img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br>
   <a href="https://github.com/mvdnssk">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW_DEV_JOURNEY-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-DEV_ECOSYSTEM-6E5494?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://www.instagram.com/karthikeya.mudili/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-PERSONAL_PROFILE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
