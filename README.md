@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=280&section=header&text=VDNSS%20Karthikeya%20Mudili&fontSize=45&fontAlignY=40&desc=CA%20Intermediate%20%7C%20Fintech%20Strategist%20%7C%20Python%20Automation&descAlignY=65&descSize=18&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=250&section=header&text=VDNSS%20Karthikeya%20Mudili&fontSize=40&fontAlignY=40&desc=Fintech%20Strategist%20%7C%20Audit%20Automation&descAlignY=65&descSize=16&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -62,11 +62,16 @@ I am a **Chartered Accountancy student** (ICAI) with a developer's mindset. Whil
 <br />
 
 <h3 align="left">📊 Development Metrics</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=radical&hide_border=true" height="170" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
