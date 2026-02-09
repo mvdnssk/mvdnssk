@@ -65,7 +65,7 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
   <br>
   <img src="https://img.shields.io/badge/C_Programming-FOUNDATIONAL_LOGIC-FF1744?style=for-the-badge&logo=c&logoColor=white&labelColor=B71C1C&v=16" />
   <br>
-  <img src="https://img.shields.io/badge/Microsoft_Power_BI-DATA_VISUALIZATION-F2C811?style=for-the-badge&logo=googleanalytics&labelColor=0078D4&v=16" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8A_POWER_BI-ANALYST-F2C811?style=for-the-badge&labelColor=0078D4&v=13" />
 </div>
 
 <br />
