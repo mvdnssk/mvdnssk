@@ -63,14 +63,9 @@ I am a **Chartered Accountancy student** (ICAI) with a developer's mindset. Whil
 
 <h3 align="left">📊 Development Metrics</h3>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=radical&hide_border=true)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=100&section=footer&animation=twinkling" width="100%" />
