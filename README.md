@@ -64,11 +64,10 @@ I am a **Chartered Accountancy student** (ICAI) with a developer's mindset. Whil
 <br />
 
 <h3 align="left">📊 Development Metrics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=dark&hide_border=true" height="180" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mvdnssk&show_icons=true&theme=dark&hide_border=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvdnssk&layout=compact&theme=dark&hide_border=true" height="170" alt="languages graph" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=120&section=footer&animation=twinkling" width="100%" />
