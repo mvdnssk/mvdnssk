@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://mvdnssk.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/OFFICIAL_PORTFOLIO-VISIT_NOW-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FFD700&v=12" alt="Website" />
+    <img src="https://img.shields.io/badge/OFFICIAL_PORTFOLIO-VISIT_NOW-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF3D00&v=13" alt="Website" />
   </a>
 </div>
 
@@ -22,23 +22,23 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
 <h3 align="left">🏆 Credentials & Distinctions</h3>
 <p align="left">
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/CA_FOUNDATION-ICAI_VERIFIED_%E2%9C%94-00E5FF?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=2962FF&v=12" />
+    <img src="https://img.shields.io/badge/CA_FOUNDATION-ICAI_VERIFIED_%E2%9C%94-00E5FF?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=2962FF&v=13" />
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/PUBLISHED_AUTHOR-STRATEGIC_ANALYSIS-18FFFF?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=006064&v=12" />
+    <img src="https://img.shields.io/badge/PUBLISHED_AUTHOR-STRATEGIC_ANALYSIS-18FFFF?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=006064&v=13" />
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/STATE_BOARD_TOPPER-TOP_1%25_IN_STATE-EA80FC?style=for-the-badge&logo=starship&logoColor=white&labelColor=4A148C&v=12" />
+    <img src="https://img.shields.io/badge/STATE_BOARD_TOPPER-TOP_1%25_IN_STATE-EA80FC?style=for-the-badge&logo=starship&logoColor=white&labelColor=4A148C&v=13" />
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/PRATIBHA_AWARDEE-GOVT_EXCELLENCE-FFD700?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=E65100&v=12" />
+    <img src="https://img.shields.io/badge/PRATIBHA_AWARDEE-GOVT_EXCELLENCE-FFD700?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=E65100&v=13" />
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/YALE_UNIVERSITY-FINANCIAL_MARKETS-00356B?style=for-the-badge&logo=yale&logoColor=white&labelColor=1A237E&v=12" />
+    <img src="https://img.shields.io/badge/YALE_UNIVERSITY-FINANCIAL_MARKETS-00356B?style=for-the-badge&logo=yale&logoColor=white&labelColor=1A237E&v=13" />
   </a>
 </p>
 
@@ -46,13 +46,13 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
 
 <h3 align="left">🛠️ Technical Arsenal</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Generative_AI-ARCHITECT_LEVEL-00E676?style=for-the-badge&logo=probot&logoColor=white&labelColor=1B5E20&v=12" />
+  <img src="https://img.shields.io/badge/Generative_AI-ARCHITECT_LEVEL-00E676?style=for-the-badge&logo=probot&logoColor=white&labelColor=1B5E20&v=13" />
   <br>
-  <img src="https://img.shields.io/badge/Python-FINANCIAL_AUTOMATION-2979FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D47A1&v=12" />
+  <img src="https://img.shields.io/badge/Python-FINANCIAL_AUTOMATION-2979FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D47A1&v=13" />
   <br>
-  <img src="https://img.shields.io/badge/C_Programming-FOUNDATIONAL_LOGIC-FF1744?style=for-the-badge&logo=c&logoColor=white&labelColor=B71C1C&v=12" />
+  <img src="https://img.shields.io/badge/C_Programming-FOUNDATIONAL_LOGIC-FF1744?style=for-the-badge&logo=c&logoColor=white&labelColor=B71C1C&v=13" />
   <br>
-  <img src="https://img.shields.io/badge/Microsoft_POWER_BI-ANALYST-F2C811?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=0078D4&v=12" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8A_POWER_BI-ANALYST-F2C811?style=for-the-badge&labelColor=0078D4&v=13" />
 </div>
 
 <br />
@@ -60,27 +60,27 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
 <h3 align="left">📫 Connect & Collaborate</h3>
 <p align="left">
   <a href="mailto:mvdnssk@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-SEND_PROPOSALS-FFD600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BF360C&v=12" />
+    <img src="https://img.shields.io/badge/EMAIL-SEND_PROPOSALS-FFD600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BF360C&v=13" />
   </a>
   <br>
   <a href="https://www.linkedin.com/in/karthikeya-mudili/">
-    <img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-40C4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2962FF&v=12" />
+    <img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-40C4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2962FF&v=13" />
   </a>
   <br>
   <a href="https://github.com/mvdnssk">
-    <img src="https://img.shields.io/badge/GITHUB-DEV_ECOSYSTEM-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=212121&v=12" />
+    <img src="https://img.shields.io/badge/GITHUB-DEV_ECOSYSTEM-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=212121&v=13" />
   </a>
   <br>
   <a href="https://www.instagram.com/karthikeya.mudili/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-PERSONAL_PROFILE-D500F9?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A148C&v=12" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-PERSONAL_PROFILE-D500F9?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A148C&v=13" />
   </a>
   <br>
   <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=10281216">
-    <img src="https://img.shields.io/badge/SSRN-RESEARCH_AUTHOR-FF0000?style=for-the-badge&logo=elsevier&logoColor=white&labelColor=5E0000&v=12" />
+    <img src="https://img.shields.io/badge/SSRN-RESEARCH_AUTHOR-FF0000?style=for-the-badge&logo=elsevier&logoColor=white&labelColor=5E0000&v=13" />
   </a>
   <br>
   <a href="https://doi.org/10.5281/zenodo.18526916">
-    <img src="https://img.shields.io/badge/ZENODO-RESEARCH_DATA-00FF99?style=for-the-badge&logo=zenodo&logoColor=white&labelColor=00A651&v=12" />
+    <img src="https://img.shields.io/badge/ZENODO-RESEARCH_DATA-00FF99?style=for-the-badge&logo=zenodo&logoColor=white&labelColor=00A651&v=13" />
   </a>
 </p>
 
