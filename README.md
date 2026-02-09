@@ -28,11 +28,11 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
 <h3 align="left">🏆 Credentials & Distinctions</h3>
 <p align="left">
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/CA_FOUNDATION-ICAI_VERIFIED_%E2%9C%94-00C6FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=003366" />
+    <img src="https://img.shields.io/badge/CA_FOUNDATION-ICAI_VERIFIED_%E2%9C%94-00E5FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=2962FF" />
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/PUBLISHED_AUTHOR-STRATEGIC_ANALYSIS-18FFFF?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=004D40" />
+    <img src="https://img.shields.io/badge/PUBLISHED_AUTHOR-STRATEGIC_ANALYSIS-18FFFF?style=for-the-badge&logo=read-the-docs&logoColor=white&labelColor=006064" />
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
@@ -40,7 +40,7 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/PRATIBHA_AWARDEE-GOVT_EXCELLENCE-FFD700?style=for-the-badge&logo=autodesk&logoColor=black&labelColor=4B0082" />
+    <img src="https://img.shields.io/badge/PRATIBHA_AWARDEE-GOVT_EXCELLENCE-FFD700?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=E65100" />
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
@@ -48,7 +48,7 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
   </a>
   <br>
   <a href="https://mvdnssk.github.io">
-    <img src="https://img.shields.io/badge/MICROSOFT_POWER_BI-ANALYST-F50057?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=212121" />
+    <img src="https://img.shields.io/badge/MICROSOFT_POWER_BI-ANALYST-FF4081?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=880E4F" />
   </a>
 </p>
 
@@ -66,19 +66,19 @@ I am a **Chartered Accountancy student** (ICAI) rewriting the rules of financial
 <h3 align="left">📫 Connect & Collaborate</h3>
 <p align="left">
   <a href="mailto:mvdnssk@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-SEND_PROPOSALS-FF5722?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BF360C" />
+    <img src="https://img.shields.io/badge/EMAIL-SEND_PROPOSALS-FFD600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BF360C" />
   </a>
   <br>
   <a href="https://www.linkedin.com/in/karthikeya-mudili/">
-    <img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=006064" />
+    <img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-40C4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2962FF" />
   </a>
   <br>
   <a href="https://github.com/mvdnssk">
-    <img src="https://img.shields.io/badge/GITHUB-DEV_ECOSYSTEM-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=212121" />
+    <img src="https://img.shields.io/badge/GITHUB-DEV_ECOSYSTEM-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
   <br>
   <a href="https://www.instagram.com/karthikeya.mudili/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-PERSONAL_PROFILE-D500F9?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A148C" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-PERSONAL_PROFILE-D500F9?style=for-the-badge&logo=instagram&logoColor=white&labelColor=311B92" />
   </a>
 </p>
 
